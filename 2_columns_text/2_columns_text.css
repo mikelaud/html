@@ -1,5 +1,6 @@
 .record {
     display: table;
+    table-layout: fixed;
     width: 90%;
     margin: 0 auto;
     text-align: center;
