@@ -1,0 +1,24 @@
+.record {
+    display: table;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.en, .ru {
+    display: table-cell;
+    float: none;
+    width: 50%;
+    padding: 0.5ch 1ch 0.5ch 1ch;
+    text-indent: 2rem;
+    text-align: justify;
+}
+.en {
+    background-color: azure;
+}
+.ru {
+    background-color: aliceblue;
+}
+img {
+    max-width: 100%;
+}
