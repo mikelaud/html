@@ -1,7 +1,7 @@
 .record {
     display: table;
     table-layout: fixed;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     text-align: center;
     background-color: whitesmoke;
@@ -10,7 +10,7 @@
     display: table-cell;
     float: none;
     width: 50%;
-    padding: 0.5ch 1ch 0.5ch 1ch;
+    padding: 1ch 2ch 1ch 2ch;
     text-indent: 2rem;
     text-align: justify;
 }
